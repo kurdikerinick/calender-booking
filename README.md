@@ -22,10 +22,12 @@ A Flutter application for booking meeting rooms with a Node.js backend.
    cd meeting-room-booking
 2. Navigate to the Project Directory
 Change into the project directory:
+ ```bash
 cd your-repo
 
-4. Install Dependencies
+3. Install Dependencies
 Run the following command to install all dependencies:
 npm install
+
 
    
