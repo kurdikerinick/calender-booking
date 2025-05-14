@@ -20,3 +20,12 @@ A Flutter application for booking meeting rooms with a Node.js backend.
    ```bash
    git clone https://github.com/yourusername/meeting-room-booking.git
    cd meeting-room-booking
+2. Navigate to the Project Directory
+Change into the project directory:
+cd your-repo
+
+4. Install Dependencies
+Run the following command to install all dependencies:
+npm install
+
+   
