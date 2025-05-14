@@ -1,16 +1,22 @@
-# Project Name
+# Meeting Room Booking App
 
-A brief description of your project.
+A Flutter application for booking meeting rooms with a Node.js backend.
+
+## Features
+- Create new bookings
+- View existing bookings
+- Delete bookings
+- Responsive UI
 
 ## Prerequisites
+- Flutter SDK (>=3.0.0)
+- Node.js (for backend)
+- Dart (>=2.17.0)
 
-- Software and libraries required to run the application:
-  - Node.js (for JavaScript-based projects)
-  - Python 3 (for Python-based projects)
-  - Other dependencies, e.g., TensorFlow, PyTorch, etc.
+## Setup
 
-## Setup Instructions
-
+### Frontend (Flutter)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/yourusername/meeting-room-booking.git
+   cd meeting-room-booking
