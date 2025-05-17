@@ -13,6 +13,8 @@ A Flutter application for booking meeting rooms with a Node.js backend.
 - Node.js (for backend)
 - Dart (>=2.17.0)
 
+Check out the live demo here: [Calendar Booking Live Site](https://kurdikerinick.github.io/calender-booking/)
+
 ## Setup
 
 ### Frontend (Flutter)
